@@ -1,6 +1,9 @@
 # Live Deployment using Github Pages 
 https://virgarg7.github.io/Text-Insight-Analyzer-using-React/
 
+# Local Network 
+http://10.1.6.23:3000/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
