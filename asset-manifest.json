@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Insight-Analyzer-using-React/static/css/main.abd64e84.css",
+    "main.js": "/Text-Insight-Analyzer-using-React/static/js/main.67f33068.js",
+    "index.html": "/Text-Insight-Analyzer-using-React/index.html",
+    "main.abd64e84.css.map": "/Text-Insight-Analyzer-using-React/static/css/main.abd64e84.css.map",
+    "main.67f33068.js.map": "/Text-Insight-Analyzer-using-React/static/js/main.67f33068.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.67f33068.js"
+  ]
+}
