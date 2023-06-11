@@ -4,6 +4,12 @@ https://virgarg7.github.io/Text-Insight-Analyzer-using-React/
 # Local Network 
 http://10.1.6.23:3000/
 
+# Project Description
+The goal of the "Text Analyzer using ReactJS" project is to develop a web application that allows users to analyze and gain insights from text input. It aims to provide various features to process and understand textual data efficiently.
+
+The project was developed using ReactJS, a popular JavaScript library for building user interfaces. ReactJS provides a component-based architecture, allowing the application to be divided into reusable and modular components. It also offers efficient rendering and state management capabilities, making it suitable for interactive and dynamic web applications.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
